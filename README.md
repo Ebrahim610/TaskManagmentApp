@@ -4,7 +4,7 @@
 
 # Performance Report
 
-We compared a moderately complex query in Room using `@Query` and `@RawQuery`.
+ compared a moderately complex query in Room using `@Query` and `@RawQuery`.
 
 ### Query Tested
 **"Get all Projects with more than 3 tasks"**
